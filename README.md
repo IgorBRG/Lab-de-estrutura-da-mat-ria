@@ -1,2 +1,2 @@
 # Lab-de-estrutura-da-mat-ria
-Leitura de medidas experimentais
+Codigos para medidas de temperatura do corpo negro e Construção de gráficos
